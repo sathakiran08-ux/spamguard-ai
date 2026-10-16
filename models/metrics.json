@@ -1,0 +1,24 @@
+{
+  "accuracy": 0.9836065573770492,
+  "precision": 0.9743589743589743,
+  "recall": 1.0,
+  "f1_score": 0.987012987012987,
+  "confusion_matrix": [
+    [
+      22,
+      1
+    ],
+    [
+      0,
+      38
+    ]
+  ],
+  "labels": [
+    "ham",
+    "spam"
+  ],
+  "train_size": 243,
+  "test_size": 61,
+  "vocab_size": 622,
+  "random_seed": 42
+}
